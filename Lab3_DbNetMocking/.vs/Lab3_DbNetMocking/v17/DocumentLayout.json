@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mattr\\Skola\\\u00C5rskurs 2\\GMI2J3 - Software Testing 1\\Github\\Labb3\\Lab3_DbNetMocking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A55C2087-1041-4885-A7C0-FDE68238A999}|..\\NetDbMockTests\\NetDbMockTests.csproj|c:\\users\\mattr\\skola\\\u00E5rskurs 2\\gmi2j3 - software testing 1\\github\\labb3\\netdbmocktests\\unittests\\dataservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A55C2087-1041-4885-A7C0-FDE68238A999}|..\\NetDbMockTests\\NetDbMockTests.csproj|c:\\users\\mattr\\skola\\\u00E5rskurs 2\\gmi2j3 - software testing 1\\github\\labb3\\netdbmocktests\\unittests\\fileloggertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 201,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileLoggerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Mattr\\Skola\\\u00C5rskurs 2\\GMI2J3 - Software Testing 1\\Github\\Labb3\\NetDbMockTests\\UnitTests\\FileLoggerTests.cs",
+              "RelativeDocumentMoniker": "..\\NetDbMockTests\\UnitTests\\FileLoggerTests.cs",
+              "ToolTip": "C:\\Users\\Mattr\\Skola\\\u00C5rskurs 2\\GMI2J3 - Software Testing 1\\Github\\Labb3\\NetDbMockTests\\UnitTests\\FileLoggerTests.cs",
+              "RelativeToolTip": "..\\NetDbMockTests\\UnitTests\\FileLoggerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T13:06:35.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Mattr\\Skola\\\u00C5rskurs 2\\GMI2J3 - Software Testing 1\\Github\\Labb3\\NetDbMockTests\\UnitTests\\DataServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\NetDbMockTests\\UnitTests\\DataServiceTests.cs",
+              "ToolTip": "C:\\Users\\Mattr\\Skola\\\u00C5rskurs 2\\GMI2J3 - Software Testing 1\\Github\\Labb3\\NetDbMockTests\\UnitTests\\DataServiceTests.cs",
+              "RelativeToolTip": "..\\NetDbMockTests\\UnitTests\\DataServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T12:43:26.559Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 666,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
