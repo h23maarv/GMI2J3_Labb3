@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mattr\\Skola\\Årskurs 2\\GMI2J3 - Software Testing 1\\Github\\Labb3\\Lab3_DbNetMocking\\NetDbMockApp.csproj": {}
+    "C:\\Users\\Mattr\\Skola\\Årskurs 2\\GMI2J3 - Software Testing 1\\Github\\Labb3\\3.2\\Lab3_DbNetMocking\\NetDbMockApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mattr\\Skola\\Årskurs 2\\GMI2J3 - Software Testing 1\\Github\\Labb3\\Lab3_DbNetMocking\\NetDbMockApp.csproj": {
+    "C:\\Users\\Mattr\\Skola\\Årskurs 2\\GMI2J3 - Software Testing 1\\Github\\Labb3\\3.2\\Lab3_DbNetMocking\\NetDbMockApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mattr\\Skola\\Årskurs 2\\GMI2J3 - Software Testing 1\\Github\\Labb3\\Lab3_DbNetMocking\\NetDbMockApp.csproj",
+        "projectUniqueName": "C:\\Users\\Mattr\\Skola\\Årskurs 2\\GMI2J3 - Software Testing 1\\Github\\Labb3\\3.2\\Lab3_DbNetMocking\\NetDbMockApp.csproj",
         "projectName": "NetDbMockApp",
-        "projectPath": "C:\\Users\\Mattr\\Skola\\Årskurs 2\\GMI2J3 - Software Testing 1\\Github\\Labb3\\Lab3_DbNetMocking\\NetDbMockApp.csproj",
+        "projectPath": "C:\\Users\\Mattr\\Skola\\Årskurs 2\\GMI2J3 - Software Testing 1\\Github\\Labb3\\3.2\\Lab3_DbNetMocking\\NetDbMockApp.csproj",
         "packagesPath": "C:\\Users\\Mattr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mattr\\Skola\\Årskurs 2\\GMI2J3 - Software Testing 1\\Github\\Labb3\\Lab3_DbNetMocking\\obj\\",
+        "outputPath": "C:\\Users\\Mattr\\Skola\\Årskurs 2\\GMI2J3 - Software Testing 1\\Github\\Labb3\\3.2\\Lab3_DbNetMocking\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S8GjVnt4zEg=",
+  "dgSpecHash": "KO4nfwHJ+xk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mattr\\Skola\\Årskurs 2\\GMI2J3 - Software Testing 1\\Github\\Labb3\\Lab3_DbNetMocking\\NetDbMockApp.csproj",
+  "projectFilePath": "C:\\Users\\Mattr\\Skola\\Årskurs 2\\GMI2J3 - Software Testing 1\\Github\\Labb3\\3.2\\Lab3_DbNetMocking\\NetDbMockApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mattr\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\Mattr\\.nuget\\packages\\microsoft.build.locator\\1.9.1\\microsoft.build.locator.1.9.1.nupkg.sha512",

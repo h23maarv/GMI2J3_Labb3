@@ -1,6 +1,6 @@
 # Using Python.org or Miniconda
 # pip/conda install selenium webdriver-manager
-#
+
 import time
 import unittest
 from selenium import webdriver
@@ -20,7 +20,7 @@ def check_alert(num, text):
 class PrimeGUITest(unittest.TestCase):
     def setUp(self):
         self.driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
-        self.driver.get("file:///YOUR/PATH/TO/prime-assert1")  # Replace with your local path
+        self.driver.get("file:///C:/Users/Mattr/Skola/Årskurs 2/GMI2J3 - Software Testing 1/Github/Labb3/3.3/Javascript/prime-assert1.html")
         time.sleep(1)
 
     def tearDown(self):

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O8TPxPcNSm4=",
+  "dgSpecHash": "EBv4LM3WG7U=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mattr\\Skola\\Årskurs 2\\GMI2J3 - Software Testing 1\\Github\\Labb3\\NetDbMockTests\\NetDbMockTests.csproj",
+  "projectFilePath": "C:\\Users\\Mattr\\Skola\\Årskurs 2\\GMI2J3 - Software Testing 1\\Github\\Labb3\\3.2\\NetDbMockTests\\NetDbMockTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mattr\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\Mattr\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
