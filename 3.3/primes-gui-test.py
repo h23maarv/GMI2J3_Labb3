@@ -20,7 +20,7 @@ def check_alert(num, text):
 class PrimeGUITest(unittest.TestCase):
     def setUp(self):
         self.driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
-        self.driver.get("file:///C:/Users/Mattr/Skola/Årskurs 2/GMI2J3 - Software Testing 1/Github/Labb3/3.3/Javascript/prime-assert1.html")
+        self.driver.get("file:///CHANGEME/prime-assert1.html") # Change to your local path
         time.sleep(1)
 
     def tearDown(self):

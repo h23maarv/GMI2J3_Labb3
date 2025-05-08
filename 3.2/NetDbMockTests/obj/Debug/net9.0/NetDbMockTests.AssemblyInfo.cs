@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NetDbMockTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4e3958e72e224b56e1102142aa07e80abfa50aa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7954e42a6941e1313cca05053c78adbed06e46d5")]
 [assembly: System.Reflection.AssemblyProductAttribute("NetDbMockTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NetDbMockTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
